@@ -1,2 +1,4 @@
 # Calculator
-A simple maths calculator
+
+Author: Dennis Dickens
+This is a simple maths calculator program in java
